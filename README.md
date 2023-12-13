@@ -49,12 +49,14 @@ print(x)
 ```
 
 ## Output:
-i)
-![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/f5737938-f778-4558-a537-b4c2908d753a)
 
 
-ii)
-![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/7c50642f-24a9-4352-b75b-ce868bbf8f02)
+ i)  ![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/f5737938-f778-4558-a537-b4c2908d753a)
+
+
+ 
+
+ ii)  ![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/7c50642f-24a9-4352-b75b-ce868bbf8f02)
 
 
 
