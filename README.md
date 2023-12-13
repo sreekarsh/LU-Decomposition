@@ -49,9 +49,10 @@ print(x)
 ```
 
 ## Output:
+i)
 
 
- i)  ![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/f5737938-f778-4558-a537-b4c2908d753a)
+  ![image](https://github.com/sreekarsh/LU-Decomposition/assets/139841918/f5737938-f778-4558-a537-b4c2908d753a)
 
 
  
